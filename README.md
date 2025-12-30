@@ -13,13 +13,11 @@
 ![https://instagram/_arii70](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jauhari-achmad-pradana-63652b28b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://sorts.pro/ariyoidev](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) 
 
 🐍 Snake Eating My Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/snake.svg" width="100%">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/pacman-contribution-graph.svg">
+</picture>
 <!--
 **Jauhari007/Jauhari007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
