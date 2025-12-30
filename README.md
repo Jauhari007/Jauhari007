@@ -13,7 +13,7 @@
 ![https://instagram/_arii70](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jauhari-achmad-pradana-63652b28b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://sorts.pro/ariyoidev](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) 
 
 👁️ Profile View Counter
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Jauhari007&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
