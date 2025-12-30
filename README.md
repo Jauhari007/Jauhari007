@@ -1,5 +1,7 @@
 ## Hello World I'am Jauhari Achmad 👋
 
+![jauhari](/img/github-header-banner.png)
+
 ![program](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RvYTJ1bzZ4dGh2YjhpODVvMHNqb3F6YmEzYmFkNXRxZmZiMTB0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)
 #### 💻Tech Stack:
 
