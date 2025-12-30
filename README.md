@@ -12,6 +12,12 @@
 #### 🌐Socials:
 ![https://instagram/_arii70](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jauhari-achmad-pradana-63652b28b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://sorts.pro/ariyoidev](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) 
 
+📊 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jauhari007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhari007&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
 🐍 Snake Eating My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jauhari007/Jauhari007/output/pacman-contribution-graph-dark.svg">
